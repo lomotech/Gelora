@@ -1,0 +1,6 @@
+“Apa kau lupa bagaimana bermula jujukan fibonachi tu adalah daripada saintis india?”
+“Tetapi aku lebih berat pada teori jujukan tersebut datang daripada arab. Iaitu dimana nilai 0 itu bermula.”
+“Masalahnya fibonachi asal tidak menggunakan 0.”
+“Tapi teori jujukan dari india ada 0”
+“Ok, tak kisah antara india atah arab tapi semua bermula dengan 0, kita ambil jujukan itu. Setuju?”
+“Setuju”
